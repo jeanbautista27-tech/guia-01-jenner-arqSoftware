@@ -24,8 +24,8 @@ utilizadas en proyectos de software.
 
 ### Paso 1
 
-![Captura Paso 1](./docs/Captura%20de%20pantalla%202026-09-19%20093847.png)
+![Captura Paso 1](./docs/Captura01.png)
 
 ### Paso 2
 
-![Captura Paso 2](./docs/Captura%20de%20pantalla%202026-09-19%20094419.png)
+![Captura Paso 2](./docs/Captura02.png)
